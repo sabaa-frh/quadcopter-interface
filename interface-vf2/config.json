@@ -1,0 +1,81 @@
+{
+    "buffer_size": 100,
+    "num_motors": 4,
+    "enable_gps": true,
+    "gps_fix_types": [
+        "2D",
+        "3D",
+        "None"
+    ],
+    "motor_color": "#ff0000",
+    "voltage_drop_range": [
+        0.0,
+        0.01
+    ],
+    "altitude_variation": 0.1,
+    "motor_current_range": [
+        0.0,
+        10.0
+    ],
+    "motor_titles": [
+        "Motor1",
+        "Motor2",
+        "Motor3",
+        "Motor4"
+    ],
+    "motor_colors": [
+        "#0000ff",
+        "#ffaa7f",
+        "#aa5500",
+        "#ff0000"
+    ],
+    "motor_update_freq": 200,
+    "orientation_titles": [
+        "Roll",
+        "Pitch",
+        "Yaw",
+        "Altitude"
+    ],
+    "orientation_colors": [
+        "#5500ff",
+        "#55557f",
+        "#ffff7f",
+        "#808080"
+    ],
+    "orientation_update_freq": 200,
+    "battery_title": "Battery Status",
+    "battery_color": "#ffaa7f",
+    "battery_update_freq": 500,
+    "ip_webcam_url": "",
+    "default_reload_mode": "Full Reload",
+    "reload_motor_titles": [
+        "Motor 1",
+        "Motor 2",
+        "Motor 3",
+        "Motor 4"
+    ],
+    "reload_motor_colors": [
+        "#ff0000",
+        "#ff00ff",
+        "#ffaaff",
+        "#ff00ff"
+    ],
+    "reload_orientation_titles": [
+        "Roll",
+        "Pitch",
+        "Yaw",
+        "Altitude"
+    ],
+    "reload_orientation_colors": [
+        "#ff0000",
+        "#00ff00",
+        "#0000ff",
+        "#808080"
+    ],
+    "reload_battery_title": "Battery Status",
+    "reload_battery_color": "#ff00ff",
+    "reload_battery_update_freq": 500,
+    "ui_font": "Arial",
+    "ui_bg_color": "#ffffff",
+    "default_gps_fix": "2D"
+}
